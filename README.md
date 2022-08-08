@@ -11,6 +11,7 @@
 
 ## 下载工程
 ```shell
+git clone https://github.com/javisChen/kt-admin
 git clone https://github.com/javisChen/kt-dependencies
 git clone https://github.com/javisChen/kt-components
 git clone https://github.com/javisChen/kt-cloud-oss
