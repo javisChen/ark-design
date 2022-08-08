@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/kt-cloud-design.iml" filepath="$PROJECT_DIR$/kt-cloud-design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/kt-cloud-design.iml" filepath="$PROJECT_DIR$/.idea/kt-cloud-design.iml" />
     </modules>
   </component>
 </project>
