@@ -15,6 +15,9 @@ git clone git@github.com:javisChen/ark-design.git
 git clone git@github.com:javisChen/ark-dependencies.git
 git clone git@github.com:javisChen/ark-components.git
 
+git clone git@github.com:javisChen/ark-admin.git
+git clone git@github.com:javisChen/ark-mall-ui.git
+
 git clone git@github.com:javisChen/generator.git
 git clone git@github.com:javisChen/ark-center-eop.git
 git clone git@github.com:javisChen/ark-center-iam.git
